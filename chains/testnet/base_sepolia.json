@@ -6,7 +6,7 @@
   "explorer_url": "https://sepolia.basescan.org",
   "icon": "https://assets.oryn.io/chains/base.svg",
   "swap_registry_address": "0xDb3E0732b016915F3fC214bF3d318d8CC9b66FBC",
-  "filler_address": "0xf2cAc4B52Bdf8aa5b8ECd65D6E875CC897709Cc4",
+  "filler_address": "0xA39ABb978cfd2ba459163ad1EaB6E8940Fbf4359",
   "source_expiry": 86400,
   "dest_expiry": 7200,
   "assets": [

@@ -6,7 +6,7 @@
   "explorer_url": "https://sepolia.arbiscan.io",
   "icon": "https://assets.oryn.io/chains/arbitrum.svg",
   "swap_registry_address": "0xa2fb35eA9113EC761D1F573D41DA91bbE4b53F59",
-  "filler_address": "0xf2cAc4B52Bdf8aa5b8ECd65D6E875CC897709Cc4",
+  "filler_address": "0xA39ABb978cfd2ba459163ad1EaB6E8940Fbf4359",
   "source_expiry": 43200,
   "dest_expiry": 3600,
   "assets": [
