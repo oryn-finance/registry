@@ -18,19 +18,19 @@ chains/
 
 Each `<chain>.json` file contains:
 
-| Field                   | Type     | Description                                   |
-| ----------------------- | -------- | --------------------------------------------- |
-| `id`                    | `string` | Unique chain identifier (e.g. `base_sepolia`) |
-| `name`                  | `string` | Human-readable chain name                     |
-| `chain_id`              | `number` | EVM chain ID                                  |
-| `rpc_url`               | `string` | Public RPC endpoint                           |
-| `explorer_url`          | `string` | Block explorer base URL                       |
-| `icon`                  | `string` | Chain icon URL                                |
-| `swap_registry_address` | `string` | Deployed `EscrowFactory` contract address     |
-| `filler_address`        | `string` | Filler/relayer address for this chain         |
-| `source_expiry`         | `number` | Source-side escrow expiry (seconds)           |
-| `dest_expiry`           | `number` | Destination-side escrow expiry (seconds)      |
-| `assets`                | `array`  | List of supported assets (see below)          |
+| Field            | Type     | Description                                   |
+| ---------------- | -------- | --------------------------------------------- |
+| `id`             | `string` | Unique chain identifier (e.g. `base_sepolia`) |
+| `name`           | `string` | Human-readable chain name                     |
+| `chain_id`       | `number` | EVM chain ID                                  |
+| `rpc_url`        | `string` | Public RPC endpoint                           |
+| `explorer_url`   | `string` | Block explorer base URL                       |
+| `icon`           | `string` | Chain icon URL                                |
+| `escrow_factory` | `string` | Deployed `EscrowFactory` contract address     |
+| `filler_address` | `string` | Filler/relayer address for this chain         |
+| `source_expiry`  | `number` | Source-side escrow expiry (seconds)           |
+| `dest_expiry`    | `number` | Destination-side escrow expiry (seconds)      |
+| `assets`         | `array`  | List of supported assets (see below)          |
 
 ### Asset Schema
 
