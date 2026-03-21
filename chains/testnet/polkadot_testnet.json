@@ -4,7 +4,7 @@
   "chain_id": 420420417,
   "rpc_url": "https://eth-rpc-testnet.polkadot.io/",
   "explorer_url": "https://blockscout-testnet.polkadot.io",
-  "icon": "https://cryptologos.cc/logos/polkadot-new-dot-logo.svg",
+  "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
   "escrow_factory": "0xFec9bD7fC73526c45369D13a8a73B56bB69d8e5C",
   "filler_address": "0xA39ABb978cfd2ba459163ad1EaB6E8940Fbf4359",
   "source_expiry": 86400,
