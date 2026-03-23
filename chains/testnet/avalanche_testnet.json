@@ -2,10 +2,14 @@
   "id": "avalanche_testnet",
   "name": "Avalanche Testnet",
   "chain_id": 43113,
+  "chain_type": "avalanche_cchain",
   "rpc_url": "https://api.avax-test.network/ext/bc/C/rpc",
   "explorer_url": "https://testnet.snowtrace.io",
   "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
   "escrow_factory": "0xFec9bD7fC73526c45369D13a8a73B56bB69d8e5C",
+  "avalanche_escrow_factory": "0xF871B8D3417a4180680204dff900033761A5C9DD",
+  "bridge_factory": "0xADa9734ba4075EE27EA7CA3aEb8E5a2006b4B87D",
+  "avalanche_blockchain_id": "0x7fc93d85c6d62c5b2ac0b519c87010ea5294012d1e407030d6acd0021cac10d5",
   "filler_address": "0xA39ABb978cfd2ba459163ad1EaB6E8940Fbf4359",
   "source_expiry": 86400,
   "dest_expiry": 7200,
@@ -30,7 +34,8 @@
       "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
       "cmc_id": 3408,
       "min_amount": "10000000",
-      "max_amount": "1000000000"
+      "max_amount": "1000000000",
+      "token_home": "0xe3faad8f84a206f0a4be492f10a413dd38366bad"
     },
     {
       "id": "wbtc",
@@ -41,7 +46,8 @@
       "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
       "cmc_id": 1,
       "min_amount": "100000",
-      "max_amount": "100000000"
+      "max_amount": "100000000",
+      "token_home": "0x1158b14442f91bbe75a6643ea19edc275a5bc82c"
     }
   ]
 }
