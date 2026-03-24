@@ -7,7 +7,7 @@
   "explorer_url": "https://testnet.snowtrace.io",
   "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
   "escrow_factory": "0xFec9bD7fC73526c45369D13a8a73B56bB69d8e5C",
-  "avalanche_escrow_factory": "0xF871B8D3417a4180680204dff900033761A5C9DD",
+  "avalanche_escrow_factory": "0x3c270DB1712AeDdfd3f3d50bf91f2aF547B9af48",
   "bridge_factory": "0xADa9734ba4075EE27EA7CA3aEb8E5a2006b4B87D",
   "avalanche_blockchain_id": "0x7fc93d85c6d62c5b2ac0b519c87010ea5294012d1e407030d6acd0021cac10d5",
   "filler_address": "0xA39ABb978cfd2ba459163ad1EaB6E8940Fbf4359",
