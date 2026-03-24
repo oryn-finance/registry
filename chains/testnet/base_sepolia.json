@@ -2,7 +2,7 @@
   "id": "base_sepolia",
   "name": "Base Sepolia",
   "chain_id": 84532,
-  "rpc_url": "https://base-sepolia.drpc.org",
+  "rpc_url": "https://sepolia.base.org",
   "explorer_url": "https://sepolia.basescan.org",
   "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/27716.png",
   "escrow_factory": "0xFec9bD7fC73526c45369D13a8a73B56bB69d8e5C",
