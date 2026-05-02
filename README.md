@@ -58,7 +58,11 @@ Each `<chain>.json` file contains:
 
 ### Mainnet
 
-Coming soon.
+| Chain             | Chain ID | Explorer                            |
+| ----------------- | -------- | ----------------------------------- |
+| Base              | 8453     | [basescan](https://basescan.org)    |
+| Arbitrum One      | 42161    | [arbiscan](https://arbiscan.io)     |
+| Avalanche C-Chain | 43114    | [snowtrace](https://snowtrace.io)   |
 
 ## Usage
 
