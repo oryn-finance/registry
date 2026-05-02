@@ -1,0 +1,36 @@
+{
+  "id": "avalanche",
+  "name": "Avalanche C-Chain",
+  "chain_id": 43114,
+  "rpc_url": "https://api.avax.network/ext/bc/C/rpc",
+  "explorer_url": "https://snowtrace.io",
+  "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+  "escrow_factory": "0x7891612c312601Da695E24BfFCe3204Eaa1007Ce",
+  "filler_address": "0x535625faab10655bc0e6eb08179918d76701ad70",
+  "source_expiry": 43200,
+  "dest_expiry": 3600,
+  "assets": [
+    {
+      "id": "usdc",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "token_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "cmc_id": 3408,
+      "min_amount": "5000000",
+      "max_amount": "20000000"
+    },
+    {
+      "id": "wbtc",
+      "symbol": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "decimals": 8,
+      "token_address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+      "cmc_id": 1,
+      "min_amount": "6500",
+      "max_amount": "25000"
+    }
+  ]
+}
