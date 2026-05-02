@@ -1,0 +1,36 @@
+{
+  "id": "base",
+  "name": "Base",
+  "chain_id": 8453,
+  "rpc_url": "https://mainnet.base.org",
+  "explorer_url": "https://basescan.org",
+  "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/27716.png",
+  "escrow_factory": "0xd5a5091D713b79545ACb83c5BC9bDFd466943De3",
+  "filler_address": "0x535625faab10655bc0e6eb08179918d76701ad70",
+  "source_expiry": 43200,
+  "dest_expiry": 3600,
+  "assets": [
+    {
+      "id": "cbbtc",
+      "symbol": "cbBTC",
+      "name": "Coinbase Wrapped BTC",
+      "decimals": 8,
+      "token_address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/32994.png",
+      "cmc_id": 1,
+      "min_amount": "6500",
+      "max_amount": "25000"
+    },
+    {
+      "id": "usdc",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "token_address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "cmc_id": 3408,
+      "min_amount": "5000000",
+      "max_amount": "20000000"
+    }
+  ]
+}
