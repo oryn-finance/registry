@@ -5,7 +5,7 @@
   "rpc_url": "https://mainnet.base.org",
   "explorer_url": "https://basescan.org",
   "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/27716.png",
-  "escrow_factory": "0xd5a5091D713b79545ACb83c5BC9bDFd466943De3",
+  "escrow_factory": "0x5c9FBbD8F58dF37f2d6424AB42e1CA124B8741B5",
   "filler_address": "0x535625faab10655bc0e6eb08179918d76701ad70",
   "source_expiry": 43200,
   "dest_expiry": 3600,
